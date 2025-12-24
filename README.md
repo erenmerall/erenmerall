@@ -30,16 +30,16 @@
 
 ---
 
-<h2 align="center">📊 GitHub İstatistikleri</h2>
+<h2>📊 GitHub İstatistikleri</h2>
 
-<p align="center">
+<p>
   <img
     src="https://github-readme-stats.vercel.app/api?username=erenmerall&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
   />
 </p>
 
-<p align="center">
+<p>
   <img
     src="https://streak-stats.demolab.com?user=erenmerall&theme=tokyonight"
     alt="GitHub Streak"
@@ -49,7 +49,7 @@
 
 ---
 
-<h2 align="center">📫 Bana Ulaş</h2>
+<h2>📫 Bana Ulaş</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eren-meral-1b66b0229/" target="_blank">
