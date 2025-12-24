@@ -39,7 +39,7 @@
   />
 </p>
 
-<p>
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=erenmerall&theme=tokyonight"
     alt="GitHub Streak"
