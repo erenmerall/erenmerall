@@ -31,10 +31,10 @@
 ---
 
 ## 📊 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erenmerall&show_icons=true&theme=tokyonight" alt="Eren's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenmerall&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
+
+![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenmerall&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=erenmerall&theme=tokyonight&hide_border=true)
 
 ---
 
