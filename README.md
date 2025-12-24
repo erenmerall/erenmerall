@@ -53,13 +53,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eren-meral-1b66b0229/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Eren%20Meral-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Eren%20Meral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:erenmeral02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-erenmeral02@gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-erenmeral02@gmail.com-1F1F1F?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
